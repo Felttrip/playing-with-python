@@ -12,4 +12,4 @@ the count of a given number with the number of 1's the look up table says it has
 
 bitwise and shows a method where using the bitwise and operation and a table of the values from 2^1 - 2^16,
 you can calculate the number of 1's by finding the value of (the number) & (each table value). This method is nice
-because it would be extremely simple to parallelize.
+because it would be extremely simple to parallelize. The algorithm was orriginally presented by Ben S and was written in python by me.
